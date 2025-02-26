@@ -9,8 +9,8 @@ Here's a step-by-step video about how to set this up, with a demo. - https://x.c
 - Send and retrieve messages from Apple Messages app
 - Search and open notes in Apple Notes app
 - Search and open contacts in Apple Contacts app
-- TODO: Search and open calendar events in Apple Calendar app
-- TODO: Search and open reminders in Apple Reminders app
+- Manage reminders in Apple Reminders app
+- Manage calendar events in Apple Calendar app
 - TODO: Search and open photos in Apple Photos app
 - TODO: Search and open music in Apple Music app
 
@@ -41,6 +41,14 @@ Can you send a message to John Doe?
 
 ```
 find all the notes related to AI and send it to my girlfriend
+```
+
+```
+create a reminder to buy groceries tomorrow
+```
+
+```
+list my calendar events for next week
 ```
 
 ## Local Development
